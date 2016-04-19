@@ -1,0 +1,36 @@
+﻿  stdafx.cpp
+  vector_helper.cpp
+  Process.cpp
+  overlay.cpp
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(93): warning C4244: 'argument': conversion from 'int' to 'FLOAT', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(93): warning C4267: 'argument': conversion from 'size_t' to 'UINT32', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(114): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(115): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(117): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(118): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(119): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(120): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(121): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(122): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(123): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(124): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(125): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(126): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(127): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(128): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(135): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(136): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(203): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(206): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(209): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(212): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(215): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(218): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(230): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(261): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\overlay.cpp(262): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Module.cpp
+  d2d1.cpp
+c:\users\strixx\documents\visual studio 2015\projects\d2d1\d2d1\d2d1.cpp(220): warning C4101: 'PlayerDropAddress': unreferenced local variable
+  Generating Code...
+  d2d1.vcxproj -> C:\Users\Strixx\Documents\Visual Studio 2015\Projects\d2d1\x64\Debug\d2d1.exe
